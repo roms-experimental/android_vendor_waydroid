@@ -70,6 +70,7 @@ else
     wget "${manifests_url}/00-remotes.xml" -O "${loc_man}/00-remotes.xml"
     wget "${manifests_url}/01-removes.xml" -O "${loc_man}/01-removes.xml"
     wget "${manifests_url}/02-waydroid.xml" -O "${loc_man}/02-waydroid.xml"
+    wget "${manifests_url}/03-lineage.xml" -O "${loc_man}/03-lineage.xml"
 fi
 
 echo -e ${reset}""${reset}

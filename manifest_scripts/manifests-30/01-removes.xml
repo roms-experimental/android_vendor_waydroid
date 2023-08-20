@@ -5,4 +5,5 @@
   <remove-project name="platform/external/mesa3d" />
   <remove-project name="platform/external/minigbm" />
   <remove-project name="platform/prebuilts/vndk/v29" />
+  <remove-project name="android_system_libhwbinder" />
 </manifest>

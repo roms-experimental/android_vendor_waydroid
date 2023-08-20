@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="system/libhwbinder" name="LineageOS/android_system_libhwbinder" clone-depth="1" remote="ghub" revision="refs/heads/lineage-18.1" />
+</manifest>
